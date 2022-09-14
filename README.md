@@ -1,2 +1,6 @@
 # serwise-backend
-SerWise
+## SerWise
+An Online Garage Management System
+---
+## Group Members
+Tharushka Madusara
